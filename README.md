@@ -22,9 +22,6 @@
   Hi there 👋
 </h1>
 
-
----
-
 ### 👩‍💻 About me.
 I am a Computer Science Engineering student in the University of Zaragoza, Spain.
 - ⚡ In my free time, I practice my programming skills in languages I don't usually use. I also love going for a walk in the nature or writing in my blog, linked above.
