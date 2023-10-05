@@ -54,7 +54,7 @@ I am a Computer Science Engineering student in the University of Zaragoza, Spain
 ---
 ### 🔥 My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerea-Uni&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nerea-Uni&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerea-Uni&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 
